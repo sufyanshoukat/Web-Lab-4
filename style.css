@@ -1,0 +1,78 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("http://goshaenoor.com/wp-content/uploads/2020/11/shuttergames-Hd8g4L9hlC4-unsplash-scaled.jpg");
+    background-size: cover ;
+    font-family:  sans-serif;
+    color: rgb(60, 255, 0) ;
+    }
+    .login-form{
+    background-color: rgba(99, 71, 71, 0.6);
+    width: 380px;
+    height: 350px;
+    margin: 0 ;
+    padding: 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    box-sizing: border-box;
+    transform: translate(-50%,-50%);
+    
+    }
+    
+    h1{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    text-align: center;
+    
+    }
+    p{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+    
+    }
+    input{
+    width: 100%;
+    margin-bottom: 28px;
+    
+    }
+    .login-form input[type="text"], input[type="password"]
+    
+    {
+    border: none;
+    border-bottom: 1px solid#fff;
+    background: transparent;
+    outline: none;
+    height: 35px;
+    font-size: 18px;
+    color: white;
+    }
+    .login-forma{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    
+    }ACC
+    .login-form input[type="button"]:hover
+    A
+    {
+    
+    border: none;
+    outline: none;
+    background-color: #000;
+    height: 40px;
+    
+    color: white;
+    cursor: pointer;
+    border-radius: 20px ;
+    font-size: 18px;
+    }
+    .login-form img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -60px;
+    left: calc(50% - 50px);
+    }
